@@ -38,7 +38,7 @@ freq(pol850$birthyr)
 
 #Make a table of students by year at NYU (don't scroll down until you've tried to figure it out yourself):
 
-
+freq(pol850$schoolyr)
 
 
 
