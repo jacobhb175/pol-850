@@ -4,7 +4,7 @@ pol850<-read.csv("pol850.csv")
 freq(pol850$hometown)
 
 anes2020<-read.csv("anes2020.csv")
-summary(anes2020)
+summary(pol850$birthyr)
 freq(anes2020$raceeth)
 freq(anes2020$tax_mil,na.rm=TRUE)
 freq(anes2020$sexornt)
