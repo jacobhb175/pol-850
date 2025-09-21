@@ -1,4 +1,5 @@
-library(readr)
+library(descr)
+
 
 #2a
 freq(anes2020$deathpenalty) 
