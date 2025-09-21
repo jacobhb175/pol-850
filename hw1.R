@@ -1,4 +1,4 @@
-library(descr)
+library(readr)
 
 
 #2a
@@ -26,6 +26,7 @@ freq(counties$rural_code)
 
 #3f/g
 freq(counties$state)
+hist(counties$state)
 
 #3h
 hist(counties$trump_pct,
