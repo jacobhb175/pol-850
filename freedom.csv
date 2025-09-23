@@ -1,0 +1,211 @@
+entity,region,type,status,political_rights,civil_liberties,total_score
+Afghanistan,Asia,country,not free,1,5,6
+Albania,Europe,country,partly free,28,40,68
+Algeria,Africa,country,not free,10,22,32
+Andorra,Europe,country,free,38,55,93
+Angola,Africa,country,not free,10,18,28
+Antigua and Barbuda,Americas,country,free,33,52,85
+Argentina,Americas,country,free,35,50,85
+Armenia,Eurasia,country,partly free,23,31,54
+Australia,Asia,country,free,38,57,95
+Austria,Europe,country,free,37,56,93
+Azerbaijan,Eurasia,country,not free,0,7,7
+Bahamas,Americas,country,free,38,53,91
+Bahrain,Middle East,country,not free,2,10,12
+Bangladesh,Asia,country,partly free,15,25,40
+Barbados,Americas,country,free,37,57,94
+Belarus,Eurasia,country,not free,2,6,8
+Belgium,Europe,country,free,39,57,96
+Belize,Americas,country,free,34,53,87
+Benin,Africa,country,partly free,19,42,61
+Bhutan,Asia,country,partly free,30,33,63
+Bolivia,Americas,country,partly free,27,39,66
+Bosnia and Herzegovina,Europe,country,partly free,17,34,51
+Botswana,Africa,country,free,28,44,72
+Brazil,Americas,country,free,30,42,72
+Brunei,Asia,country,not free,7,21,28
+Bulgaria,Europe,country,free,32,46,78
+Burkina Faso,Africa,country,not free,3,24,27
+Burundi,Africa,country,not free,4,10,14
+Cabo Verde,Africa,country,free,38,54,92
+Cambodia,Asia,country,not free,4,19,23
+Cameroon,Africa,country,not free,6,9,15
+Canada,Americas,country,free,39,58,97
+Central African Republic,Africa,country,not free,1,4,5
+Chad,Africa,country,not free,1,14,15
+Chile,Americas,country,free,38,56,94
+China,Asia,country,not free,-2,11,9
+Colombia,Americas,country,free,31,39,70
+Comoros,Africa,country,partly free,16,26,42
+Congo (Brazzaville),Africa,country,not free,2,15,17
+Congo (Kinshasa),Africa,country,not free,4,15,19
+Costa Rica,Americas,country,free,38,53,91
+Cote d'Ivoire,Africa,country,partly free,19,30,49
+Croatia,Europe,country,free,34,49,83
+Cuba,Americas,country,not free,1,11,12
+Cyprus,Europe,country,free,38,54,92
+Czech Republic,Europe,country,free,36,58,94
+Denmark,Europe,country,free,40,57,97
+Djibouti,Africa,country,not free,5,19,24
+Dominica,Americas,country,free,37,56,93
+Dominican Republic,Americas,country,partly free,27,41,68
+Ecuador,Americas,country,partly free,29,38,67
+Egypt,Africa,country,not free,6,12,18
+El Salvador,Americas,country,partly free,21,32,53
+Equatorial Guinea,Africa,country,not free,0,5,5
+Eritrea,Africa,country,not free,1,2,3
+Estonia,Europe,country,free,38,57,95
+Eswatini,Africa,country,not free,1,16,17
+Ethiopia,Africa,country,not free,10,10,20
+Fiji,Asia,country,partly free,27,39,66
+Finland,Europe,country,free,40,60,100
+France,Europe,country,free,38,51,89
+Gabon,Africa,country,not free,2,18,20
+Georgia,Eurasia,country,partly free,22,36,58
+Germany,Europe,country,free,39,54,93
+Ghana,Africa,country,free,35,45,80
+Greece,Europe,country,free,35,50,85
+Grenada,Americas,country,free,37,52,89
+Guatemala,Americas,country,partly free,17,29,46
+Guinea,Africa,country,not free,7,23,30
+Guinea-Bissau,Africa,country,partly free,17,26,43
+Guyana,Americas,country,free,30,43,73
+Haiti,Americas,country,not free,11,19,30
+Honduras,Americas,country,partly free,22,26,48
+Hungary,Europe,country,partly free,24,41,65
+Iceland,Europe,country,free,37,57,94
+India,Asia,country,partly free,33,33,66
+Indonesia,Asia,country,partly free,29,28,57
+Iran,Middle East,country,not free,4,7,11
+Iraq,Middle East,country,not free,16,14,30
+Ireland,Europe,country,free,39,58,97
+Israel,Middle East,country,free,34,40,74
+Italy,Europe,country,free,36,54,90
+Jamaica,Americas,country,free,33,47,80
+Japan,Asia,country,free,40,56,96
+Jordan,Middle East,country,not free,11,22,33
+Kazakhstan,Eurasia,country,not free,5,18,23
+Kenya,Africa,country,partly free,22,30,52
+Kiribati,Asia,country,free,37,53,90
+Kosovo,Europe,country,partly free,28,32,60
+Kuwait,Middle East,country,partly free,14,24,38
+Kyrgyzstan,Eurasia,country,not free,4,23,27
+Laos,Asia,country,not free,2,11,13
+Latvia,Europe,country,free,37,51,88
+Lebanon,Middle East,country,partly free,13,29,42
+Lesotho,Africa,country,free,30,36,66
+Liberia,Africa,country,partly free,30,34,64
+Libya,Africa,country,not free,1,8,9
+Liechtenstein,Europe,country,free,33,57,90
+Lithuania,Europe,country,free,38,51,89
+Luxembourg,Europe,country,free,38,59,97
+Madagascar,Africa,country,partly free,24,34,58
+Malawi,Africa,country,partly free,29,37,66
+Malaysia,Asia,country,partly free,22,31,53
+Maldives,Asia,country,partly free,21,23,44
+Mali,Africa,country,not free,6,20,26
+Malta,Europe,country,free,35,52,87
+Marshall Islands,Asia,country,free,38,55,93
+Mauritania,Africa,country,partly free,15,24,39
+Mauritius,Africa,country,free,35,50,85
+Mexico,Americas,country,partly free,27,33,60
+Micronesia,Asia,country,free,37,55,92
+Moldova,Eurasia,country,partly free,26,35,61
+Monaco,Europe,country,free,25,57,82
+Mongolia,Asia,country,free,36,48,84
+Montenegro,Europe,country,partly free,27,42,69
+Morocco,Africa,country,partly free,13,24,37
+Mozambique,Africa,country,partly free,14,30,44
+Myanmar,Asia,country,not free,0,8,8
+Namibia,Africa,country,free,31,46,77
+Nauru,Asia,country,free,34,43,77
+Nepal,Asia,country,partly free,28,34,62
+Netherlands,Europe,country,free,39,58,97
+New Zealand,Asia,country,free,40,59,99
+Nicaragua,Americas,country,not free,4,12,16
+Niger,Africa,country,partly free,6,27,33
+Nigeria,Africa,country,partly free,20,24,44
+North Korea,Asia,country,not free,0,3,3
+North Macedonia,Europe,country,partly free,28,39,67
+Norway,Europe,country,free,39,59,98
+Oman,Middle East,country,not free,6,18,24
+Pakistan,Asia,country,partly free,14,21,35
+Palau,Asia,country,free,37,55,92
+Panama,Americas,country,free,35,48,83
+Papua New Guinea,Asia,country,partly free,22,39,61
+Paraguay,Americas,country,partly free,26,37,63
+Peru,Americas,country,partly free,27,39,66
+Philippines,Asia,country,partly free,25,33,58
+Poland,Europe,country,free,33,47,80
+Portugal,Europe,country,free,39,57,96
+Qatar,Middle East,country,not free,7,18,25
+Romania,Europe,country,free,35,48,83
+Russia,Eurasia,country,not free,4,9,13
+Rwanda,Africa,country,not free,8,15,23
+Samoa,Asia,country,free,32,52,84
+San Marino,Europe,country,free,39,58,97
+Sao Tome and Principe,Africa,country,free,35,49,84
+Saudi Arabia,Middle East,country,not free,1,7,8
+Senegal,Africa,country,partly free,28,39,67
+Serbia,Europe,country,partly free,18,39,57
+Seychelles,Africa,country,free,34,45,79
+Sierra Leone,Africa,country,partly free,24,36,60
+Singapore,Asia,country,partly free,19,29,48
+Slovakia,Europe,country,free,37,53,90
+Slovenia,Europe,country,free,39,57,96
+Solomon Islands,Asia,country,free,28,47,75
+Somalia,Africa,country,not free,2,6,8
+South Africa,Africa,country,free,33,46,79
+South Korea,Asia,country,free,33,50,83
+South Sudan,Africa,country,not free,-3,4,1
+Spain,Europe,country,free,37,53,90
+Sri Lanka,Asia,country,partly free,22,32,54
+St. Kitts and Nevis,Americas,country,free,35,54,89
+St. Lucia,Americas,country,free,38,54,92
+St. Vincent and the Grenadines,Americas,country,free,36,54,90
+Sudan,Africa,country,not free,-3,9,6
+Suriname,Americas,country,free,34,45,79
+Sweden,Europe,country,free,40,59,99
+Switzerland,Europe,country,free,39,57,96
+Syria,Middle East,country,not free,-3,4,1
+Taiwan,Asia,country,free,38,56,94
+Tajikistan,Eurasia,country,not free,0,5,5
+Tanzania,Africa,country,partly free,12,24,36
+Thailand,Asia,country,partly free,12,24,36
+The Gambia,Africa,country,partly free,22,28,50
+Timor-Leste,Asia,country,free,33,39,72
+Togo,Africa,country,partly free,15,27,42
+Tonga,Asia,country,free,31,50,81
+Trinidad and Tobago,Americas,country,free,33,49,82
+Tunisia,Africa,country,partly free,16,35,51
+Turkey,Europe,country,not free,17,16,33
+Turkmenistan,Eurasia,country,not free,0,2,2
+Tuvalu,Asia,country,free,37,56,93
+Uganda,Africa,country,not free,10,24,34
+Ukraine,Eurasia,country,partly free,21,28,49
+United Arab Emirates,Middle East,country,not free,5,13,18
+United Kingdom,Europe,country,free,38,53,91
+United States,Americas,country,free,33,50,83
+Uruguay,Americas,country,free,40,56,96
+Uzbekistan,Eurasia,country,not free,2,10,12
+Vanuatu,Asia,country,free,32,50,82
+Venezuela,Americas,country,not free,1,14,15
+Vietnam,Asia,country,not free,4,15,19
+Yemen,Middle East,country,not free,1,9,10
+Zambia,Africa,country,partly free,23,31,54
+Zimbabwe,Africa,country,not free,10,17,27
+Abkhazia,Eurasia,territory,partly free,17,22,39
+Crimea,Eurasia,territory,not free,-2,4,2
+Eastern Donbas,Eurasia,territory,not free,-1,4,3
+Gaza Strip,Middle East,territory,not free,3,5,8
+Hong Kong,Asia,territory,partly free,9,32,41
+Indian Kashmir,Asia,territory,not free,6,20,26
+Nagorno-Karabakh,Eurasia,territory,not free,-3,0,-3
+Northern Cyprus,Europe,territory,free,27,49,76
+Pakistani Kashmir,Asia,territory,not free,9,20,29
+Somaliland,Africa,territory,partly free,17,26,43
+South Ossetia,Eurasia,territory,not free,3,9,12
+Tibet,Asia,territory,not free,-2,2,0
+Transnistria,Eurasia,territory,not free,5,12,17
+West Bank,Middle East,territory,not free,4,18,22
+Western Sahara,Africa,territory,not free,-3,7,4

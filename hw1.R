@@ -1,5 +1,5 @@
-library(readr)
-
+install.packages("descr")
+library(descr)
 
 #2a
 freq(anes2020$deathpenalty) 
