@@ -5,15 +5,18 @@ library(tidyverse)
 #Download and save freedom.csv into your working directory
 
 #Import it into R.
-
 freedom<-read.csv("freedom.csv")
 summary(freedom)
 freq(freedom$type)
 
 territories<-dplyr::filter(freedom, type %in% c("territory"))
-territories<-order[(territories$total_score),]
+sd(freedom$total_score[freedom$type=="territory"],na.rm=TRUE)
+sd(freedom$total_score[freedom$type=="country"],na.rm=TRUE)
+territories_sorted<-territories[order(territories$total_score),]
+head(territories_sorted)
+tail(territories_sorted)
 
-#Some questions: try to figure these out yourself; scroll down for answers:
+#Someterritories_sorted#Some questions: try to figure these out yourself; scroll down for answers:
 
 View(freedom)
 
@@ -49,7 +52,7 @@ library(descr)
 
 #6. Produce a frequency table of the variable region.
 
-
+freq(freedom$region)
 
 
 
@@ -77,7 +80,8 @@ freq(freedom$type)
 
 #7. Produce a frequency table of the variable status.
 
-
+freedom$status <- ordered(freedom$status,levels=c("free","partly free","not free"))
+freq(freedom$status)
 
 
 
@@ -120,7 +124,7 @@ freq(freedom$status)
 
 
 
-
+hist(freedom$total_score)
 
 
 
