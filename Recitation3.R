@@ -49,9 +49,9 @@ mean(freedom$civil_liberties[freedom$status==
                                "partly free"], na.rm=TRUE)
 
 #7. Which entities have higher overall scores on average, European countries or those in the Americas?
-mean(freedom$civil_liberties[freedom$region==
+mean(freedom$total_score[freedom$region==
                                "Europe"], na.rm=TRUE)
-mean(freedom$civil_liberties[freedom$region==
+mean(freedom$total_score[freedom$region==
                                "Americas"], na.rm=TRUE)
 
 #8. Are civil liberties, on average, stronger in Africa or in Asia?
@@ -61,11 +61,11 @@ mean(freedom$civil_liberties[freedom$region==
                                "Asia"], na.rm=TRUE)
 
 #9. Do overall scores vary most in “free,” “partly free,” or “not free” entities?
-sd(freedom$civil_liberties[freedom$status==
+sd(freedom$total_score[freedom$status==
                                "free"], na.rm=TRUE)
-sd(freedom$civil_liberties[freedom$status==
+sd(freedom$total_score[freedom$status==
                                "partly free"], na.rm=TRUE)
-sd(freedom$civil_liberties[freedom$status==
+sd(freedom$total_score[freedom$status==
                              "not free"], na.rm=TRUE)
 
 
