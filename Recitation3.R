@@ -34,8 +34,8 @@ hist(freedom$political_rights)
 hist(freedom$civil_liberties)
 
 #4. Next, answer this question by calculating the proper statistic for the two variables and comparing them.
-sd(freedom$political_rights)
-sd(freedom$civil_liberties)
+sd(freedom$political_rights, na.rm = TRUE)
+sd(freedom$civil_liberties, na.rm = TRUE)
 
 #5. Do your answers match each other?
 
@@ -43,13 +43,30 @@ sd(freedom$civil_liberties)
 # MOST DIFFICULT:
 
 #6. Which entities have higher mean civil liberties scores, “free” or “partly free” places? 
+mean(freedom$civil_liberties[freedom$status==
+                               "free"], na.rm=TRUE)
+mean(freedom$civil_liberties[freedom$status==
+                               "partly free"], na.rm=TRUE)
 
 #7. Which entities have higher overall scores on average, European countries or those in the Americas?
+mean(freedom$civil_liberties[freedom$region==
+                               "Europe"], na.rm=TRUE)
+mean(freedom$civil_liberties[freedom$region==
+                               "Americas"], na.rm=TRUE)
 
 #8. Are civil liberties, on average, stronger in Africa or in Asia?
+mean(freedom$civil_liberties[freedom$region==
+                               "Africa"], na.rm=TRUE)
+mean(freedom$civil_liberties[freedom$region==
+                               "Asia"], na.rm=TRUE)
 
 #9. Do overall scores vary most in “free,” “partly free,” or “not free” entities?
-
+sd(freedom$civil_liberties[freedom$status==
+                               "free"], na.rm=TRUE)
+sd(freedom$civil_liberties[freedom$status==
+                               "partly free"], na.rm=TRUE)
+sd(freedom$civil_liberties[freedom$status==
+                             "not free"], na.rm=TRUE)
 
 
 
