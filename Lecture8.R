@@ -187,6 +187,7 @@ mu_age_upper
 
 
 
+mean(sample(anes2020$age, 100),na.rm=T)
 
 
 
